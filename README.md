@@ -36,4 +36,7 @@ e.g
 ```
 pyc hello.py
 ```
+License
+-------
+Redistribution and use in source and binary forms of the software as well as documentation, with or without modification, are permitted provided that the MIT License is met:
 
