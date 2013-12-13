@@ -8,7 +8,7 @@ All the time you run a `python` file, you get `pyc` files
 if you import `user-defined python module` from another sub directory or current directory.
 `pyc` files make direcotry messy sometimes.
 
-So this module can help you to remove all sub-directory's and current-directory's `pyc` files and make the directory looks better when you *run* a `python` file 
+So this module can help you to remove all sub-directory's and current-directory's `pyc` files and make the directory looks better when you **run** a `python` file 
 by running a python file this way:
 ```
 pyc pyton_file_you_wanna_run.py
