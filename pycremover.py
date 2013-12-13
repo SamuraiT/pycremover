@@ -1,6 +1,5 @@
 """
 author: Yasukawa Tatsuro 
-license: license is same as MIT license
 contactinfo: https://github.com/SamuraiT
 """
 import os
